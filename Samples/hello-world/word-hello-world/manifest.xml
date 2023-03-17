@@ -70,7 +70,7 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="http://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/word-hello-world/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://m0hid.github.io/Office-Add-in-samples/Samples/hello-world/word-hello-world/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with the Hello world add-in!"/>
